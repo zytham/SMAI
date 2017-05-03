@@ -4,10 +4,10 @@ Sample data for Perceptron Learning - Refer ProblemStatements_assign.pdf (Proble
 	OnlineLinearPerceptron.py
 
 Sample data for VotedPerceptron : Refer Data directory
-VotedPerceptron.py
+	VotedPerceptron.py
 
 
 Sample data for Perceptron Learning - Refer ProblemStatements_assign.pdf (Problem 3)
-LeastSquareAndFiserLinearDiscriminant.py 
+	LeastSquareAndFiserLinearDiscriminant.py 
 
 
